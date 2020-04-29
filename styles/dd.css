@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(253, 253, 253);
+    margin: auto;
+    padding: 3px 3px 3px 3px;
+    font-size: 20px;
+    font-family: garamond;
+    text-align: center;
+    text-shadow: #000000;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size:40px;
+}
